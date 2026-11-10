@@ -1,7 +1,7 @@
 {
- "version": 1,
+ "version": 2,
  "updated": "2026-11-10",
- "note": "",
+ "note": "أضفنا سؤال تجربة",
  "sections": [
   {
    "id": "part1",
@@ -4876,6 +4876,25 @@
      "tip": "Average Total Cost = Total Cost ÷ Output. عند أدنى نقطة: MC = ATC.",
      "review_status": "reviewed",
      "id": 251
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "title": "سؤال تجربة",
+   "menu": "سؤال تجربة",
+   "questions": [
+    {
+     "id": "test-20261110-1",
+     "q": "من هي شروق؟",
+     "o": [
+      "مصممة هذه الملفات",
+      "مصممة شروحات"
+     ],
+     "a": 0,
+     "why": "سؤال تجربة للتحديث.",
+     "tip": "تجربة",
+     "chapter": "تجربة"
     }
    ]
   }
