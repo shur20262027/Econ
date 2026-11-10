@@ -1,7 +1,7 @@
 {
- "version": 2,
+ "version": 3,
  "updated": "2026-11-10",
- "note": "أضفنا سؤال تجربة",
+ "note": "أضفنا رابط التواصل",
  "sections": [
   {
    "id": "part1",
@@ -4897,6 +4897,13 @@
      "chapter": "تجربة"
     }
    ]
+  }
+ ],
+ "notices": [
+  {
+   "text": "للتواصل",
+   "link": "https://t.me/ShurooqSouq",
+   "linkText": "قروب التليجرام"
   }
  ]
 }
